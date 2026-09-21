@@ -1,0 +1,6 @@
+{
+  "name": "English Spelling Duel",
+  "description": "A two-player competitive English spelling game where two teams play head-to-head on the same screen to unscramble and spell words correctly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
